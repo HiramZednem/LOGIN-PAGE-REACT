@@ -1,7 +1,7 @@
 import Form from '../Atoms/Form';
-import DatosPersonales from '../Components/DatosPersonales';
-import TipoCuenta from '../Components/TipoCuenta';
-import Perfil from '../Components/Perfil';
+import DatosPersonales from '../Organisms/DatosPersonales';
+import TipoCuenta from '../Organisms/TipoCuenta';
+import Perfil from '../Organisms/Perfil';
 import SubbmitButton from '../Atoms/SubbmitButton';
 
 function FormularioRegistro (options) {

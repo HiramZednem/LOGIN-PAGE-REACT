@@ -1,11 +1,15 @@
-import FormularioRegistro from "./Templates/FormularioRegistro"
+
 import './assets/styles/styles.css'
+
+import DatosPersonales from './Organisms/DatosPersonales'
 
 function App() {
 
   return (
     <>
-    <FormularioRegistro />
+    {/* <LabelAndInput htmlFor="first-name" id="first-name" name="first-name" type="text" text="Ramon"/> */}
+
+    <DatosPersonales />
     </>
   )
 }
