@@ -1,15 +1,14 @@
 
 import './assets/styles/styles.css'
+import Form from './Atoms/Form'
 
-import DatosPersonales from './Organisms/DatosPersonales'
-import TipoCuenta from './Organisms/TipoCuenta'
+import FormularioRegistro from './Templates/FormularioRegistro'
 
 function App() {
 
   return (
     <>
-    <DatosPersonales />
-    <TipoCuenta /> 
+    <FormularioRegistro />
     </>
   )
 }

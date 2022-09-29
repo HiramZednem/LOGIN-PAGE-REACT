@@ -1,0 +1,16 @@
+[
+    {
+        "htmlFor": "profile-picture",
+        "text": "Foto de perfil: ",
+        "id": "profile-picture",
+        "name":"file",
+        "type":"file"   
+    },
+    {
+        "htmlFor": "age",
+        "text": "Edad: ",
+        "id": "age",
+        "name":"age",
+        "type":"number"   
+    }
+]
