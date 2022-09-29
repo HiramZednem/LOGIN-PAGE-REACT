@@ -1,0 +1,30 @@
+[
+    {
+        "htmlFor": "personal-account",
+        "text": "Estudiante",
+        "id": "student-account",
+        "name":"account-type",
+        "type":"radio",
+        "className":"inline"
+    },
+    {
+        "htmlFor": "business-account",
+        "text": "Profesor",
+        "id": "teacher-account",
+        "name":"account-type",
+        "type":"radio",
+        "className":"inline"
+    },
+    {
+        "htmlFor": "terms-and-conditions",
+        "text": "Yo acepto los terminos y condiciones",
+        "id": "terms-and-conditions",
+        "name":"terms-and-conditions",
+        "type":"checkbox",
+        "className":"inline"
+    }
+]
+
+
+
+
